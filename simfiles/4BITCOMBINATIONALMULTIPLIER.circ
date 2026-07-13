@@ -85,28 +85,24 @@
     <comp lib="1" loc="(1510,1500)" name="OR Gate"/>
     <comp lib="1" loc="(390,1030)" name="AND Gate"/>
     <comp lib="1" loc="(390,1090)" name="AND Gate"/>
-    <comp lib="1" loc="(390,1090)" name="AND Gate"/>
-    <comp lib="1" loc="(390,1150)" name="AND Gate"/>
     <comp lib="1" loc="(390,1150)" name="AND Gate"/>
     <comp lib="1" loc="(390,1210)" name="AND Gate"/>
     <comp lib="1" loc="(390,1270)" name="AND Gate"/>
     <comp lib="1" loc="(390,370)" name="AND Gate"/>
-    <comp lib="1" loc="(390,370)" name="AND Gate"/>
-    <comp lib="1" loc="(390,430)" name="AND Gate"/>
     <comp lib="1" loc="(390,430)" name="AND Gate"/>
     <comp lib="1" loc="(390,490)" name="AND Gate"/>
     <comp lib="1" loc="(390,550)" name="AND Gate"/>
     <comp lib="1" loc="(390,610)" name="AND Gate"/>
-    <comp lib="1" loc="(390,610)" name="AND Gate"/>
-    <comp lib="1" loc="(390,670)" name="AND Gate"/>
     <comp lib="1" loc="(390,670)" name="AND Gate"/>
     <comp lib="1" loc="(390,730)" name="AND Gate"/>
     <comp lib="1" loc="(390,790)" name="AND Gate"/>
     <comp lib="1" loc="(390,850)" name="AND Gate"/>
-    <comp lib="1" loc="(390,850)" name="AND Gate"/>
-    <comp lib="1" loc="(390,910)" name="AND Gate"/>
     <comp lib="1" loc="(390,910)" name="AND Gate"/>
     <comp lib="1" loc="(390,970)" name="AND Gate"/>
+    <comp lib="1" loc="(400,380)" name="AND Gate"/>
+    <comp lib="1" loc="(400,440)" name="AND Gate"/>
+    <comp lib="1" loc="(400,620)" name="AND Gate"/>
+    <comp lib="1" loc="(400,680)" name="AND Gate"/>
     <comp lib="1" loc="(650,1270)" name="AND Gate"/>
     <comp lib="1" loc="(660,720)" name="XOR Gate"/>
     <comp lib="1" loc="(660,960)" name="XOR Gate"/>
@@ -143,11 +139,11 @@
       <a name="facing" val="east"/>
       <a name="number" val="4"/>
     </comp>
+    <comp lib="8" loc="(20,690)" name="Text">
+      <a name="text" val="A"/>
+    </comp>
     <comp lib="8" loc="(20,755)" name="Text">
       <a name="text" val="B"/>
-    </comp>
-    <comp lib="8" loc="(21,691)" name="Text">
-      <a name="text" val="A"/>
     </comp>
     <comp lib="9" loc="(1860,920)" name="BCD_to_7_Segment_decoder"/>
     <comp lib="9" loc="(1870,750)" name="Binary_to_BCD_converter">
