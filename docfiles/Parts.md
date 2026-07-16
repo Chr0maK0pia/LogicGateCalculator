@@ -1,6 +1,3 @@
-[[EE]] [[planning]]
-Date: 2026-07-04
-Tags: #ee #planning
 
 ****using CMOS chips for this project only*
 # Parts needed
@@ -54,7 +51,7 @@ $14.84 in shipping
 Total: $35.40
 # Parts owned  
 74HC series
-- 12 not gates (74HC04)
-- 8 and gates (74HC08)
-- 8 or gates (74HC32)
-- All dip switches
+- 12 NOT gates (74HC04)
+- 8 AND gates (74HC08)
+- 8 OR gates (74HC32)
+- All DIP switches
